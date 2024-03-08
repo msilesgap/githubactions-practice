@@ -74,7 +74,7 @@ jobs:
           git commit --allow-empty --message="Create an empty commit"
           
           echo "Push"
-          git push --set-upstream origin $BRANCH
+          git push -f origin $BRANCH
           
           echo "Restaurar main"
           git checkout main
