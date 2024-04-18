@@ -75,6 +75,8 @@ Primero, aprenderemos los conceptos básicos de GitHub Actions
 
 ### :keyboard: Actividad: Crea un workflow file
 
+Testing something
+
 1. Abra una nueva pestaña del navegador y siga los pasos de la segunda pestaña mientras lee las instrucciones de esta pestaña.
 1. Cree un Pull Request para ver todos los cambios que realizará a lo largo de este curso. Haga clic en la pestaña *Pull Requests*, haga clic en *New Pull Request*, establezca `base: main` y `compare: aprendiendo-github-actions`.
 1. Vaya a la pestaña *Code*.
