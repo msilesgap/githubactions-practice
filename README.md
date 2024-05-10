@@ -10,22 +10,12 @@ RESET
 -->
 
 
-<<<<<<< HEAD
-=======
 SOFT Reset
-
->>>>>>> 612c2b2 (Adding Soft Reset Test)
 New File
-
 New Things
-
-<<<<<<< HEAD
 
 =======
 Edit May 10
->>>>>>> 612c2b2 (Adding Soft Reset Test)
-
-
 
 
 Testing
