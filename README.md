@@ -10,13 +10,12 @@ RESET
 -->
 
 
+SOFT Reset
 New File
-
 New Things
 
-
-
-
+=======
+Edit May 10
 
 
 Testing
