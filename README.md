@@ -1,4 +1,6 @@
 <!--
+RESET
+
   <<< Author notes: Header of the course >>>
   Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
   Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
